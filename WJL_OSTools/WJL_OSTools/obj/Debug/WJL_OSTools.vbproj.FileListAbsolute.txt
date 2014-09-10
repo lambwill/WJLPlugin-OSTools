@@ -1,0 +1,11 @@
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.vbprojResolveAssemblyReference.cache
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.frmSettings.resources
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.Resources.resources
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.vbproj.GenerateResource.Cache
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\bin\Debug\WJL_OSTools.dll.config
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\bin\Debug\WJL_OSTools.dll
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\bin\Debug\WJL_OSTools.pdb
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\bin\Debug\WJL_OSTools.xml
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.dll
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.xml
+C:\Users\lambw\Documents\GitHub\WJLPlugin-OSTools\WJL_OSTools\WJL_OSTools\obj\Debug\WJL_OSTools.pdb
